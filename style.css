@@ -33,11 +33,14 @@ a{
     right: 0;
 }
 .info1 div{
-    width: 40%;
-    position: absolute;
+    /* width: 40%; */
+    /* position: absolute; */
 }
 .info1 .d2{
-    right: 0;
+    /* left: 0; */
+}
+.info1 .d2{
+    /* right: 0; */
 }
 @media only screen and (max-width: 800px) {
     .mainImg{
