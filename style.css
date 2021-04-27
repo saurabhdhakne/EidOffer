@@ -38,9 +38,14 @@ a{
 }
 .info1 .d2{
     /* left: 0; */
+    text-align: center;
 }
-.info1 .d2{
+.info1 .d1{
+    text-align: center;
     /* right: 0; */
+}
+.info1 .d1 a{
+    display: inline;
 }
 @media only screen and (max-width: 800px) {
     .mainImg{
