@@ -29,9 +29,17 @@ a{
     position: absolute;
     right: 0;
 }
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 800px) {
     .mainImg{
         margin-top:-16vh;
     }
-    
+    .mainImg .img1{
+        width: 50px;
+        position: absolute;
+    }
+    .mainImg .img2{
+        width: 50px;
+        position: absolute;
+        right: 0;
+    }
 }
