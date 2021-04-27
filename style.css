@@ -32,10 +32,6 @@ a{
     position: absolute;
     right: 0;
 }
-.info1 div{
-    /* width: 40%; */
-    /* position: absolute; */
-}
 .info1 .d2{
     /* left: 0; */
     text-align: center;
@@ -44,7 +40,8 @@ a{
     text-align: center;
     /* right: 0; */
 }
-.info1 .d1 a{
+.info1 a{
+    color: black;
     display: inline;
 }
 @media only screen and (max-width: 800px) {
