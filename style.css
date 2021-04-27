@@ -1,0 +1,205 @@
+@font-face {
+    font-family: 'futura-medium-bt';
+    src: url(font/FuturaMediumBT.ttf);
+    font-style: normal;
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(253, 253, 253);
+    font-family: futura-medium-bt;
+
+}
+
+.bg_img
+{
+    width: 1200px;
+    height: 1800px;
+}
+
+#shop_btn
+{
+    padding: 2px;
+    width: 230px;
+    height: 100;
+    margin-top: -725px;
+}
+
+#visit_btn
+{
+    padding: 2px;
+    width: 230px;
+    height: 100px;
+    margin-top: -725px;
+    margin-left: 400px;
+}
+
+#icons_row
+{
+    margin-left: 205px;
+}
+
+#fb_icon
+{
+    padding: -5px;
+    height: 115px;
+    width: 115px;
+    margin-top: -480px;
+}
+
+#fb_icon:hover
+{
+    background-color:  rgba(188, 223, 0, 0.4);
+}
+
+
+#insta_icon
+{
+    padding: -5px;
+    height: 115px;
+    width: 115px;
+    margin-top: -480px;
+}
+
+#insta_icon:hover
+{
+    background-color:  rgba(188, 223, 0, 0.4);
+}
+
+
+#whatsapp_icon
+{
+    padding: -5px;
+    height: 115px;
+    width: 115px;
+    margin-top: -480px;
+}
+
+#whatsapp_icon:hover
+{
+    background-color:  rgba(188, 223, 0, 0.4);
+}
+
+
+#location_icon
+{
+    padding: -5px;
+    height: 90px;
+    width: 115px;
+    margin-top: -480px;
+}
+
+#location_icon:hover
+{
+    background-color:  rgba(188, 223, 0, 0.4);
+}
+
+
+#web_icon
+{
+    padding: -5px;
+    height: 115px;
+    width: 115px;
+    margin-top: -480px;
+}
+
+#web_icon:hover
+{
+    background-color:  rgba(188, 223, 0, 0.4);
+}
+
+
+#mail_icon
+{
+    padding: -5px;
+    height: 115px;
+    width: 115px;
+    margin-top: -480px;
+}
+
+#mail_icon:hover
+{
+    background-color:  rgba(188, 223, 0, 0.4);
+}
+
+
+#blog_icon
+{
+    padding: -5px;
+    height: 110px;
+    width: 110px;
+    margin-top: -480px;
+}
+
+#blog_icon:hover
+{
+    background-color:  rgba(188, 223, 0, 0.4);
+}
+
+
+#divider_line
+{
+    padding: 5px;
+    margin-top: -385px;
+    margin-left: 68px;
+}
+
+
+.info1
+{
+    padding: 10px;
+    padding-top: 15px;
+    margin-top: -200px;
+}
+
+#info2
+{
+    padding: 10px;
+    margin-top: -50px;
+    margin-left: 25px;
+}
+
+h4
+{
+    font-size: 35px;
+    color: black;
+    font-weight: 700;
+}
+
+a
+{
+    color: black;
+}
+
+
+#br1l1
+{
+    padding: 5px;
+    text-align: left;
+    margin-left: 35px;
+}
+
+#br1l2
+{
+    padding: 5px;
+    text-align: right;
+    margin-right: -55px;
+}
+
+#br2l1
+{
+    padding: 5px;
+    text-align: left;
+    margin-left: 45px;
+    margin-top: -15px;
+}
+
+#br2l2
+{
+    padding: 5px;
+    text-align: right;
+    margin-right: -47px;
+    margin-top: -20px;
+}
