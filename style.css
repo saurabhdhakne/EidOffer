@@ -152,6 +152,9 @@ body
     padding-top: 15px;
     margin-top: -200px;
 }
+.info1 div{
+    float:left;
+}
 
 #info2
 {
