@@ -28,7 +28,7 @@ a{
     position: absolute;
 }
 .mainImg .img2{
-    width: 200px;
+    width: 100px;
     position: absolute;
     right: 0;
 }
@@ -37,7 +37,7 @@ a{
     position: absolute;
 }
 .info1 .d2{
-    right: 0;;
+    right: 0;
 }
 @media only screen and (max-width: 800px) {
     .mainImg{
